@@ -4,55 +4,58 @@
             "start": "8:00 AM",
             "end": "8:50 AM",
             "days": {
-                "tue": "TAA1",
-                "wed": "TF1",
+                "tue": "TDD1",
+                "wed": "TEE1",
                 "thu": "TG1",
-                "fri": "TCC1",
-                "sat": "TE1"
+                "fri": "TFF1"
             }
         },
         {
             "start": "9:00 AM",
             "end": "9:50 AM",
             "days": {
-                "tue": "C1",
-                "wed": "B1",
-                "thu": "TDD1",
-                "fri": "G1",
-                "sat": "TC1"
+                "mon": "TA1",
+                "tue": "B1",
+                "wed": "G1",
+                "thu": "C1",
+                "fri": "B1",
+                "sat": "G1"
             }
         },
         {
             "start": "10:00 AM",
             "end": "10:50 AM",
             "days": {
-                "tue": "B1",
-                "wed": "C1",
-                "thu": "E1",
-                "fri": "F1",
-                "sat": "TBB1"
+                "mon": "TB1",
+                "tue": "G1",
+                "wed": "A1",
+                "thu": "D1",
+                "fri": "TC1",
+                "sat": "D1"
             }
         },
         {
             "start": "11:00 AM",
             "end": "11:50 AM",
             "days": {
-                "tue": "D1",
-                "wed": "A1",
-                "thu": "F1",
+                "mon": "E1",
+                "tue": "A1",
+                "wed": "C1",
+                "thu": "A1",
                 "fri": "E1",
-                "sat": "TA1"
+                "sat": "F1"
             }
         },
         {
             "start": "12:00 PM",
             "end": "12:50 PM",
             "days": {
-                "tue": "G1",
-                "wed": "D1",
-                "thu": "A1",
-                "fri": "TB1",
-                "sat": "TD1"
+                "mon": "E1"
+                "tue": "F1",
+                "wed": "B1",
+                "thu": "F1",
+                "fri": "D1",
+                "sat": "C1"
             }
         },
         {
@@ -62,10 +65,10 @@
             "start": "2:00 PM",
             "end": "2:50 PM",
             "days": {
-                "tue": "G2",
+                "tue": "SC1",
                 "wed": "D2",
                 "thu": "E2",
-                "fri": "TB2",
+                "fri": "SA1",
                 "sat": "TD2"
             }
         },
@@ -75,7 +78,7 @@
             "days": {
                 "tue": "B2",
                 "wed": "C2",
-                "thu": "TDD2",
+                "thu": "SE1",
                 "fri": "E2",
                 "sat": "TC2"
             }
@@ -84,9 +87,9 @@
             "start": "4:00 PM",
             "end": "4:50 PM",
             "days": {
-                "tue": "C2",
+                "tue": "SF1",
                 "wed": "A2",
-                "thu": "A2",
+                "thu": "SB1",
                 "fri": "F2",
                 "sat": "TBB2"
             }
@@ -96,7 +99,7 @@
             "end": "5:50 PM",
             "days": {
                 "tue": "D2",
-                "wed": "B2",
+                "wed": "SD1",
                 "thu": "F2",
                 "fri": "G2",
                 "sat": "TA2"
